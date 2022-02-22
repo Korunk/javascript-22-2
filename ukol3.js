@@ -5,8 +5,10 @@ let mesicZena = 5;
 let rokMuz = 1990;
 let mesicMuz = 3;
 
-console.log(rokMuz - rokZena);
+let vekMuz = 
+
+console.log(rokZena- rokMuz);
 console.log(mesicZena - mesicMuz);
-console.log("ahoj");
+
 
 
