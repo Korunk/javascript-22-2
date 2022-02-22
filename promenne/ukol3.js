@@ -5,4 +5,7 @@ let mesicZena = 5;
 let rokMuz = 1990;
 let mesicMuz = 3;
 
-console.log (rokMuz - rokZena);
+console.log(rokMuz - rokZena);
+console.log (mesicZena - mesicMuz);
+
+
