@@ -7,7 +7,7 @@ let mesicMuz = 3;
 
 let vekMuz = 
 
-console.log(rokZena- rokMuz);
+console.log(rokZena - rokMuz);
 console.log(mesicZena - mesicMuz);
 
 
