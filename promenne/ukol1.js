@@ -7,19 +7,11 @@ let vyska = 168;
 
  let bmi = váha / výška ** 2;
 
- console.log ("Jmenuji se" +jmeno "", je mi 34 let, vážím 65kg,  měřím 1.67m a moje BMI je 23,2."
-  )
+ console.log ("Jmenuji se" +jmeno+ ", je mi" +vek+ "let, vážím" +vaha+ "kg,  měřím" +vaska+ "m a moje BMI je"+bmi
+  );
 
 
 
 
-let jmeno = prompt ("Jak se jmenuješ?");
-let vek = Number (prompt("Kolik ti je?"));
 
-if (vek>=18) {
-console.log (jmeno + ",můžeš řídit auto.");
-}
-else {
-console.log (jméno+ ",nemůžeš řídit auto.");
-}
 
