@@ -22,4 +22,3 @@ else {
 console.log (jméno+ ",nemůžeš řídit auto.");
 }
 
-let a = Number ( )
