@@ -9,10 +9,15 @@ let výška = 168;
 
 
 
-console.log ("Jmenuji se"+jméno+", je mi"+věk+"let, vážím"+váha+"kg, měřím"+výška+"m a moje BMI je"+bmi+);
+
 
 
 let jmeno = prompt ("Jak se jmenuješ?");
-let věk = Number ("Kolik ti je?");
+let vek = Number ("Kolik ti je?");
 
-let pravda = 
+if (věk>18) {
+console.log (jmeno + "bylo ti 18?" + (18 - vek) "let");
+}
+else {
+
+}
