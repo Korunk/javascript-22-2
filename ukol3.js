@@ -7,5 +7,6 @@ let mesicMuz = 3;
 
 console.log(rokMuz - rokZena);
 console.log(mesicZena - mesicMuz);
+console.log("ahoj");
 
 
