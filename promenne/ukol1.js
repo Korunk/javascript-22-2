@@ -5,10 +5,10 @@ let věk = 30;
 let váha = 56;
 let výška = 168;
 
- let BMI = (váha / výška ** 2);
+ let bmi = (váha / výška ** 2);
 
 
 
-console.log ("Jmenuji se " + jméno+ ", je mi " + věk+ " let, vážím " + váha+ "kg,  měřím " +výška+ "m a moje BMI je "+BMI+ );
+console.log ("Jmenuji se " + jméno+ ", je mi " + věk+ " let, vážím " + váha+ "kg,  měřím " +výška+ "m a moje BMI je "+bmi+ );
 
 
