@@ -15,9 +15,11 @@ let výška = 168;
 let jmeno = prompt ("Jak se jmenuješ?");
 let vek = Number ("Kolik ti je?");
 
-if (věk>18) {
-console.log (jmeno + "bylo ti 18?" + (18 - vek) "let");
+if (vek>=18) {
+console.log (jmeno + ",můžeš řídit auto.");
 }
 else {
-
+console.log (jméno+ ",nemůžeš řídit auto.");
 }
+
+let a = Number ( )
