@@ -9,6 +9,6 @@ let výška = 168;
 
 
 
-console.log ("Jmenuji se " + jméno+ ", je mi " + věk+ " let, vážím " + váha+ "kg,  měřím " +výška+ "m a moje BMI je "+BMI+");
+console.log ("Jmenuji se " + jméno+ ", je mi " + věk+ " let, vážím " + váha+ "kg,  měřím " +výška+ "m a moje BMI je "+BMI+ );
 
 
