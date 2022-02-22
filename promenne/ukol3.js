@@ -1,8 +1,8 @@
-let jmenoZ = "Jana";
-let jmenoM = "Martin";
-let rokZ = 1992;
-let mesicZ = 5;
-let rokM = 1990;
-let mesicM = 3;
+let jmenoZena = "Jana";
+let jmenoMuz = "Martin";
+let rokZena = 1992;
+let mesicZena = 5;
+let rokMuz = 1990;
+let mesicMuz = 3;
 
-let vek
+console.log (rokMuz - rokZena);
