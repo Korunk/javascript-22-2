@@ -5,7 +5,7 @@ let věk = 30;
 let váha = 56;
 let výška = 168;
 
- let bmi = (váha / výška ** "2");
+ let bmi = váha / výška ** 2;
 
 
 
