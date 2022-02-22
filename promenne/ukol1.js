@@ -1,4 +1,4 @@
-// Založte proměnné pro jméno, věk, váhu v kg a  výšku  v metrech - nastavte jim libovolnou hodnotu.
+/* Založte proměnné pro jméno, věk, váhu v kg a  výšku  v metrech - nastavte jim libovolnou hodnotu.*/
 
 let jméno = 'Klára';
 let věk = 30;
@@ -12,3 +12,7 @@ let výška = 168;
 console.log ("Jmenuji se"+jméno+", je mi"+věk+"let, vážím"+váha+"kg, měřím"+výška+"m a moje BMI je"+bmi+);
 
 
+let jmeno = prompt ("Jak se jmenuješ?");
+let věk = Number ("Kolik ti je?");
+
+let pravda = 
