@@ -1,13 +1,14 @@
 /* Založte proměnné pro jméno, věk, váhu v kg a  výšku  v metrech - nastavte jim libovolnou hodnotu.*/
 
-let jméno = 'Klára';
-let věk = 30;
-let váha = 56;
-let výška = 168;
+let jmeno = 'Klára';
+let vek = 30;
+let vaha = 56;
+let vyska = 168;
 
  let bmi = váha / výška ** 2;
 
-
+ console.log ("Jmenuji se" +jmeno "", je mi 34 let, vážím 65kg,  měřím 1.67m a moje BMI je 23,2."
+  )
 
 
 
