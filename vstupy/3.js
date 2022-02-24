@@ -1,6 +1,12 @@
 
-let cislo = Number(prompt ('x'));
-function jmenoFunkce (x ++, x-1, x*2, x/2 );
+
+function jmenoFunkce (a, b) {
+
+  console.log (a + b);
+  console.log (Marh.abs(a - b));
+  consol.log (a * b);
+  consol.log (a / b);
 }
 
-jmenoFunkce ();
+
+jmenoFunkce (5, 7);
