@@ -3,9 +3,9 @@
 function jmenoFunkce (a, b) {
 
   console.log (a + b);
-  console.log (Marh.abs(a - b));
-  consol.log (a * b);
-  consol.log (a / b);
+  console.log (Math.abs(a - b));
+  console.log (a * b);
+  console.log (a / b);
 }
 
 
