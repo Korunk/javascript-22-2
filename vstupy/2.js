@@ -5,4 +5,5 @@ for ( i = dolni; i <= horni; i ++ )
 {
   console.log (i);
   
+  
 }
