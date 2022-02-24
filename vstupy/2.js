@@ -1,4 +1,8 @@
-for (let i = 0;i > 10; i + 10 )
+let dolni = Number(prompt ('od'));
+let horni = Number(prompt ('do'));
+
+for ( i = dolni;i <= horni; i ++ )
 {
+  console.log (i);
   
 }
